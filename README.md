@@ -12,3 +12,4 @@ Also, please follow setup instructions for this version (shown in the video).
 ![strapi claudinary setup](./claudinary.png)
 
 In order to access claudinary keys, please follow the video.
+# Strapi-api
